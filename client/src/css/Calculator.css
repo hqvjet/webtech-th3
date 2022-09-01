@@ -1,0 +1,15 @@
+.main{
+    margin: 0 auto;
+    width: 70vw;
+    height: auto;
+    text-align: center;
+    border: 1px solid black
+}
+
+label::after{
+    content: ': ';
+}
+
+h1{
+    color: red
+}
